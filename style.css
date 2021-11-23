@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 230px;
+}
+
+h1 span:nth-child(1){
+    color: aliceblue;
+}
+h1 span:nth-child(2){
+    color: azure;
+}
+h1 span:nth-child(3){
+    color: rgb(198, 227, 245);
+}
+h1 span:nth-child(4){
+    color: rgb(218, 240, 248);
+}
+.search-bar{
+    width: 600px;
+    margin-top: 10px;
+}
